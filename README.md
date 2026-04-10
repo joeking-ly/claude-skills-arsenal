@@ -1,4 +1,4 @@
-## Claude Skills Arsenal
+## My Skills Arsenal
 
 113+ Claude Code skills for founders, investors, builders, and marketers.
 
